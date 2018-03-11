@@ -4,7 +4,7 @@
 + #### Class: 15CK3
 + #### Email: bvanty96@gmail.com
 + #### Phone-number: +84 935 840 744
-+ #### About: [Facebook](fb.me/buivanty3007) 
++ #### About: [Facebook](https://fb.me/buivanty3007) 
 ### Time-Table
 | Time/period | Mon   | Tue   | Wed      | Thu | Fri | Sat |
 | ----------- | ---   | ---   | --- | --- | --- | --- |
